@@ -11,7 +11,7 @@ A technology audit typically involves the following steps:
 It's important to note that the technology audit should be conducted periodically to ensure that the organization's IT landscape stays up-to-date and aligned with the organization's business goals. 
 
 
-## Identifying the Scope##
+## Identifying the Scope ##
 **Identifying the scope** of a technology audit is an important step in ensuring that all relevant systems, hardware, and software are included in the audit. The CIO advisory team should consider the following when determining the scope of the audit:
 
 - Systems: The CIO advisory team should identify all the systems that need to be included in the audit. This may include servers, storage systems, networks, and cloud-based systems.
@@ -29,7 +29,7 @@ It's important to note that the technology audit should be conducted periodicall
 It's important to note that the scope of the audit should be clearly defined and communicated to all relevant stakeholders so that everyone is aware of what systems, hardware, software, data, users, and locations are being audited.
 
 
-## ollect Data ##
+## Collect Data ##
 Collecting data is an important step in a technology audit as it provides a comprehensive view of the organization's current IT systems, hardware, and software. The CIO advisory team should consider the following when collecting data:
 
 - System configurations: The CIO advisory team should gather data on the configurations of the systems included in the audit. This may include information such as the number of processors, memory, and storage.
