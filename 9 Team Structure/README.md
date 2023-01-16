@@ -32,25 +32,15 @@ The structure of a CIO Advisory team within a service provider organization can 
 This is a general structure and the size and roles of the team can change depending on the service provider organization's size, complexity, and the specific needs of the client. The team may also include additional roles such as business analysts, systems engineers, or data analysts.
 
 
-The structure of a CIO Advisory Team on the Service Provider site:
+The structure of a CIO Advisory Team on the Service Provider site can also look like this:
 
-- Enterprise Solution Architect (Project Manager):
+- Enterprise Solution Architect (as a Project Manager and Generalist Architect):
 
-- Solution Architect:
+- Solution Architect / Cloud Architect:
 
-- Technical Architect:
-
-- Cloud Architect:
-
-- Infrastructure Architect:
-
-- Network Architect:
+- Network Architect / Security Architect:
 
 - Data Architect:
-
-- Security Architect:
-
-- DevOps Architect:
 
 - Business Analyst
 
