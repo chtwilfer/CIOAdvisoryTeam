@@ -15,6 +15,23 @@ The structure of a CIO Advisory team can vary depending on the organization's si
 This is a general structure and the size and roles of the team can change depending on the organization's size, complexity, and the specific needs of the business. The team may also include additional roles such as project managers, business analysts, or IT architects.
 
 
+The structure of a CIO Advisory team within a service provider organization can vary depending on the size and needs of the service provider. However, a typical structure may include the following roles:
+
+- Service Delivery Manager (SDM): The SDM is the primary point of contact between the service provider and the client. They are responsible for managing the delivery of the service, ensuring client satisfaction and addressing any issues that arise.
+
+- Technical Account Manager (TAM): The TAM is responsible for managing the technical aspects of the service delivery. They work closely with the SDM to ensure that the service meets the client's technical requirements, and provide technical support as needed.
+
+- Solution Architect: The Solution Architect is responsible for designing and developing the service offerings and solutions. They work closely with the client to understand their needs and develop solutions that meet those needs.
+
+- Project Manager: The Project Manager is responsible for managing the delivery of the service. They work closely with the SDM and the client to ensure that the service is delivered on time and within budget.
+
+- IT Operations: IT Operations staff are responsible for managing and maintaining the service provider's IT systems and technologies. They work closely with the SDM and the client to ensure that the service is delivered with high availability and performance.
+
+- IT Security: IT Security staff are responsible for ensuring the security and compliance of the service provider's IT systems and technologies, including implementing security controls and monitoring for potential threats.
+
+This is a general structure and the size and roles of the team can change depending on the service provider organization's size, complexity, and the specific needs of the client. The team may also include additional roles such as business analysts, systems engineers, or data analysts.
+
+
 The structure of a CIO Advisory Team on the Service Provider site:
 
 - Enterprise Solution Architect (Project Manager):
