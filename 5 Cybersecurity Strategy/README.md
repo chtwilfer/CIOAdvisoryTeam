@@ -7,3 +7,23 @@ Helping to develop and implement a **cybersecurity strategy** to protect an orga
 - Monitor and evaluate: The CIO advisory team should continuously monitor the organization's cybersecurity posture and evaluate the effectiveness of the cybersecurity strategy. This includes evaluating the performance of security controls, identifying new threats, and updating the strategy as necessary.
 
 It's important to note that cybersecurity is an ongoing process, and the CIO advisory team should continuously monitor the organization's IT landscape and recommend updates or changes to the cybersecurity strategy as necessary to protect the organization from cyber threats.
+
+
+## Assess the organization's current cybersecurity posture ##
+
+
+
+## Understand the regulatory environment ##
+
+
+##  Develop a cybersecurity strategy ##
+
+
+## Implement security controls ##
+
+
+## Communicate and train ##
+
+
+
+## Monitor and evaluate ##
