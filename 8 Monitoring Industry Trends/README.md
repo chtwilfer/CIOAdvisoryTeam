@@ -9,3 +9,27 @@
 - Continuously improve: The CIO advisory team should continuously monitor industry trends and developments and make recommendations as necessary to ensure the organization's IT strategy stays current and relevant.
 
 It's important to note that monitoring industry trends and developments is an ongoing process, and the CIO advisory team should continuously monitor the organization's IT landscape to identify new technologies and best practices that may be relevant to the organization and make recommendations as needed to help the organization stay current and competitive.
+
+
+## Research industry trends ##
+
+
+## Identify potential opportunities ##
+
+
+## Evaluate the organization's current IT strategy ##
+
+
+## Develop recommendations ##
+
+
+## Communicate recommendations ##
+
+
+## Implement changes ##
+
+
+## Monitor progress ##
+
+
+## Continuously improve ##

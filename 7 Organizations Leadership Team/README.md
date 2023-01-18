@@ -9,3 +9,27 @@ Providing ongoing support and consultation to an **organization's leadership tea
 - Continuously improve: The CIO advisory team should continuously review and update the support and consultation process as needed to ensure it stays aligned with the organization's goals and objectives and adapts to the changing technology landscape.
 
 It's important to note that providing ongoing support and consultation is an ongoing process, and the CIO advisory team should continuously monitor the organization's IT landscape and be prepared to provide expert advice and guidance as needed to help the organization's leadership team make informed decisions on IT-related matters.
+
+
+## Establish regular communication ##
+
+
+## Provide expert advice ##
+
+
+## Keep the leadership team informed ##
+
+
+## Identify potential issues ##
+
+
+## Provide solutions ##
+
+
+## Manage projects ##
+
+
+## Be available ##
+
+
+## Continuously improve ##
