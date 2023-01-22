@@ -34,7 +34,7 @@ This is a general structure and the size and roles of the team can change depend
 
 The structure of a CIO Advisory Team on the Service Provider site can also look like this:
 
-- Enterprise Solution Architect (as a Project Manager and Generalist Architect):
+- Enterprise Solution Architect or Demand Manager (as a Project Manager and Generalist Architect):
 
 - Solution Architect / Cloud Architect:
 
