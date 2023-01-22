@@ -1,4 +1,4 @@
-A CIO advisory team and a Center of Excellence (CCoE) team can work together in several ways to support the organization's IT strategy and goals. Some possible ways they can collaborate include:
+A CIO advisory team and a Cloud Center of Excellence (CCoE) team can work together in several ways to support the organization's IT strategy and goals. Some possible ways they can collaborate include:
 
 - Aligning IT strategy: The CIO advisory team can work with the CCoE team to ensure that the organization's IT strategy aligns with the organization's overall mission, vision, values, and specific business goals.
 
