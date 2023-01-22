@@ -72,3 +72,6 @@ Sharing knowledge: The teams can share knowledge and expertise to stay up-to-dat
 
 ## Continuously improve ##
 Additionally, the CCoE team can focus on implementing and maintaining IT standards, frameworks, and methodologies, while the CIO advisory team can focus on providing strategic guidance and direction for the organization's IT initiatives. Together, they can work to ensure that the organization's IT systems, processes, and technologies are aligned with the organization's overall mission and goals, and are effectively managed and secured.
+
+
+Se  more of CCoE in my other Repo her: https://github.com/chtwilfer/CloudCenterofExcellence
